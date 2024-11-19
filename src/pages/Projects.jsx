@@ -11,8 +11,8 @@ const Projects = () => {
       features: ["User authentication", "Product management", "Order management", "Payment gateway integration"],
       challenges: ["Handling large product data", "Ensuring security for user data", "Optimizing performance with pagination"],
       technologies: ["Java", "Spring Boot", "MongoDB", "AWS", "Heroku"],
-      githubLink: "https://github.com/yourusername/eCommerceApp",
-      liveLink: "https://yourwebsite.com/eCommerceApp",
+      githubLink: "https://github.com/MeetPrajapati18/eCommerceApp2",
+      liveLink: "https://ecommerceeeapp-f74ef1656957.herokuapp.com/",
       image: project1
     },
     {
@@ -21,8 +21,8 @@ const Projects = () => {
       features: ["Search by city", "Real-time weather updates", "Displays temperature, humidity, wind speed"],
       challenges: ["Working with third-party weather API", "Handling errors gracefully", "Responsive design for mobile devices"],
       technologies: ["Java", "Spring Boot", "Bootstrap"],
-      githubLink: "https://github.com/yourusername/weatherApp",
-      liveLink: "https://yourwebsite.com/weatherApp",
+      githubLink: "https://github.com/MeetPrajapati18/weather-app",
+      // liveLink: "https://yourwebsite.com/weatherApp",
       image: project2
     },
     {
@@ -31,8 +31,8 @@ const Projects = () => {
       features: ["Responsive design", "Blog section", "Contact form", "Project gallery"],
       challenges: ["Ensuring responsiveness across devices", "SEO optimization", "Integrating contact form with backend"],
       technologies: ["React", "Vite", "Tailwind CSS", "Vercel"],
-      githubLink: "https://github.com/yourusername/portfolio",
-      liveLink: "https://yourwebsite.com",
+      githubLink: "https://github.com/MeetPrajapati18/portfolio",
+      liveLink: "https://portfolio-murex-five-82.vercel.app/",
       image: project3
     }
   ];
