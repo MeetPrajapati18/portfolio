@@ -14,16 +14,15 @@ const Contact = () => {
         </a>
       </p>
       <p className="text-lg">
-        LinkedIn:{" "}
+        Contact No.:{" "}
         <a
-          href="https://www.linkedin.com/in/meet-prajapati-3748bb2a5/"
+          href="tel:3658834656"
           className="text-blue-500 hover:underline"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          Meet Prajapati
+          Meet Prajapati (365) 883-4656
         </a>
       </p>
+
     </section>
   );
 };
